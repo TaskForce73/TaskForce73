@@ -39,9 +39,9 @@ I can easily become a friend for any cat!😁
 <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/js%403x.png" alt="js" width="200" height="50">
 <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/html%403x.png" alt="html" width="200" height="50">
 </br>
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/css3%403x.png" alt="css" width="" hight="">
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/react%403x.png" alt="react" width="" hight="">
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/nodejs%403x.png" alt="nodeJS" width="" hight="">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/css3%403x.png" alt="css" width="200" height="50">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/react%403x.png" alt="react" width="200" height="50">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/nodejs%403x.png" alt="nodeJS" width="250" height="50">
 </p>
 
 
