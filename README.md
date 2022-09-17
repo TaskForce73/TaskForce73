@@ -63,7 +63,7 @@ If you want to reach out to me about anything, here are my social networks.😉
 <a href="mailto:antfilatov91.@gmail.com">
  <img align="left" alt="Gmail" width="200" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/gmail%403x.png" />
 </a>
-<a href="linkedin.com/in/antfilatov">
+<a href="https://linkedin.com/in/antfilatov">
   <img align="left" alt="Linkedin" width="200" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/linkedin%403x.png" />
 </a>
 </br>
