@@ -2,7 +2,6 @@
 <p align="center"><img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/opening.JPG" alt="Teresa Of The Faint Smile" height="320" width="320"/></p>
 
 </br>
-</br>
 
 # About ME :
 
