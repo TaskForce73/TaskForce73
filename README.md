@@ -89,7 +89,6 @@ here are my social networks😉
   </p>
 
 </br>
-</br>
 
 # Thanks for reading!
 
