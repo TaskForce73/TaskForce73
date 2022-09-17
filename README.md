@@ -25,7 +25,6 @@ I can easily become a friend for any cat!😁
 
 </br>
 </br>
-</br>
 
 # Languages & Tools :
 </br>
@@ -42,10 +41,8 @@ I can easily become a friend for any cat!😁
 <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/nodejs%403x.png" alt="nodeJS" width="150" height="50">
 </p>
 
-
 </br>
 </br>
-
 
 # Contact Me :
 
