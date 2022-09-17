@@ -55,8 +55,8 @@ I can easily become a friend for any cat!😁
 <p>
  </br>
 
-<!-- 
-<img hight="220" width="350" align="right" alt="contact" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3718.JPG"> -->
+
+<img hight="200" width="330" align="right" alt="contact" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3718.JPG"> 
 
 If you want to reach out to me about anything, here are my social networks.😉
 
