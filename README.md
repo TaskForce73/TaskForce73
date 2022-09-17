@@ -6,7 +6,7 @@
 
 ### - I'm full stack web developer from Israel.
 
-<img hight="200" width="300" alt="GIF" align="right" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3704.JPG">
+<img hight="150" width="200" alt="GIF" align="right" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3704.JPG">
 
 ### - Learning :
 - ⚔ React/Redux & API
@@ -17,11 +17,3 @@
 - ⚔ Travelling 
 - ⚔ Reading 
 - ⚔ Sport
-
-### - Fun fact : 
-
-
-</br>
-</br>
-</br>
-
