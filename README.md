@@ -78,7 +78,6 @@ here are my social networks😉
 
 # Some stats :
 
-</br>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=TaskForce73&show_icons=true&theme=dracula"/ height="400" width="420">
@@ -87,8 +86,6 @@ here are my social networks😉
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaskForce73&layout=compact"/ height="400" width="420">
   </a>
   </p>
-
-</br>
 
 # Thanks for reading!
 
