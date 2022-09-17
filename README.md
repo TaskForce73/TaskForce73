@@ -9,7 +9,7 @@
 
 # About ME :
 
-### - I'm full stack web developer from Israel.
+### - I'm full stack web developer from Israel🇮🇱
 
 <img hight="200" width="300" alt="GIF" align="right" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3704.JPG">
 
@@ -60,7 +60,7 @@ I can easily become a friend for any cat!😁
 <img height="300" width="450" align="right" alt="contact" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3718.JPG"> 
 
 If you want to reach out to me about anything:
-here are my social networks.😉
+here are my social networks😉
 
 <a href="mailto:antfilatov91.@gmail.com">
  <img align="left" alt="Gmail" width="150" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/gmail%403x.png" />
