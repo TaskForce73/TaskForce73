@@ -35,7 +35,7 @@ I can easily become a friend for any cat!😁
 
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/visualstudio_code%403x.png" alt="vs code" width="350" height="50">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/visualstudio_code%403x.png" alt="vs code" width="576" height="50">
 <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/js%403x.png" alt="js" width="200" height="100">
 <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/html%403x.png" alt="html" width="200" height="100">
 </br>
