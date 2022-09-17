@@ -84,7 +84,7 @@ here are my social networks😉
 <img  src="https://github-readme-stats.vercel.app/api?username=TaskForce73&show_icons=true&theme=dracula"/>
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaskForce73&layout=compact"/ height="150" width="500">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaskForce73&layout=compact"/ height="150" width="400">
   </a>
   </p>
 
