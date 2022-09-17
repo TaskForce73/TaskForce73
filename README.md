@@ -32,7 +32,7 @@ I can easily become a friend for any cat!😁
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
-  <p align="center"><img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3716.GIF" alt="Teresa animation" height="320" width="660"/></p>
+  <p align="center"><img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3716.GIF" alt="Teresa animation" height="320" width="656"/></p>
   </br>
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
