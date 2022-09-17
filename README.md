@@ -7,7 +7,7 @@
 </br>
 
 
-# About ME 💬 :
+# About ME :
 
 ### - I'm full stack web developer from Israel.
 
@@ -30,7 +30,7 @@ I can easily become a friend for any cat!😁
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools :
 </br>
   <p align="center"><img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3716.GIF" alt="Teresa animation" height="320" width="656"/></p>
   </br>
