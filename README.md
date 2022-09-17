@@ -1,3 +1,24 @@
 <h1 align="center">Hi there, I'm Anton <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/download.png" alt="Claymore" height="32" width="32" /></h1>
 <p align="center"><img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/opening.JPG" alt="Teresa Of The Faint Smile" height="320" width="320"/></p>
-<h3 align="center">Full Stack Web Developer</h3>
+
+
+# About ME 💬 :
+
+### - I'm full stack web developer from Israel.
+
+<img hight="400" width="500" alt="GIF" align="right" src="">
+
+### - Learning :
+- ⚔ React/Redux & API
+- ⚔ AngularJS
+
+### - Hobbies : 
+- ⚔ Computer technologies
+- ⚔ Travelling 
+- ⚔ Reading 
+- ⚔ Sport
+
+</br>
+</br>
+</br>
+
