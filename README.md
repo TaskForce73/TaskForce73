@@ -85,6 +85,13 @@ here are my social networks.😉
 </br>
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TaskForce73)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=TaskForce73&show_icons=true&theme=dracula"/>
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?TaskForce73=anuraghazra&layout=compact"/>
+  </a>
+  </p>
 
 
