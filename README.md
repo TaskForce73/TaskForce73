@@ -6,7 +6,7 @@
 
 ### - I'm full stack web developer from Israel.
 
-<img hight="400" width="500" alt="GIF" align="right" src="">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3704.JPG">
 
 ### - Learning :
 - ⚔ React/Redux & API
