@@ -72,7 +72,7 @@ If you want to reach out to me about anything, here are my social networks.😉
 </br>
 </br>
 </br> 
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
+<a href="https://t.me/Task_inc">
   <img align="left" alt="Telegram" width="150" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/telegram%403x.png" />
 </a>
  </p>
