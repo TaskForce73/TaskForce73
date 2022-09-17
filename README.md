@@ -35,13 +35,13 @@ I can easily become a friend for any cat!😁
 
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/visualstudio_code%403x.png" alt="vs code" width="240" hight="50">
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/js%403x.png" alt="js"  width="100" hight="50">
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/html%403x.png" alt="html" width="90" hight="50">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/visualstudio_code%403x.png" alt="vs code" width="" hight="">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/js%403x.png" alt="js"  width="" hight="">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/html%403x.png" alt="html" width="" hight="">
 </br>
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/css3%403x.png" alt="css" width="100" hight="50">
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/react%403x.png" alt="react" width="180" hight="50">
-<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/nodejs%403x.png" alt="nodeJS" width="270" hight="50">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/css3%403x.png" alt="css" width="" hight="">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/react%403x.png" alt="react" width="" hight="">
+<img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/nodejs%403x.png" alt="nodeJS" width="" hight="">
 </p>
 
 
