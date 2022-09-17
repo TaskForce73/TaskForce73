@@ -66,6 +66,7 @@ If you want to reach out to me about anything, here are my social networks.😉
 <a href="linkedin.com/in/antfilatov">
   <img align="left" alt="Linkedin" width="200" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/linkedin%403x.png" />
 </a>
+</br>
 <a href="https://www.reddit.com/user/X_Ashutosh_X">
   <img align="left" alt="Telegram" width="200" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/telegram%403x.png" />
 </a>
