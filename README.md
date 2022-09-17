@@ -88,9 +88,7 @@ here are my social networks.😉
 <p align="left" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=TaskForce73&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-  <p align="right" >  
+  </a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaskForce73&layout=compact"/>
   </a>
