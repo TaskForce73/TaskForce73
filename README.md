@@ -19,8 +19,9 @@
 
 ### - Hobbies : 
 - ⚔ Computer technologies
-- ⚔ Travelling 
-- ⚔ Reading 
+- ⚔ Travelling
+- ⚔ Reading
+- ⚔ Anime  
 - ⚔ Sport
 
 ### - Fun fact :
