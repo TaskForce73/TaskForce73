@@ -108,5 +108,5 @@ here are my social networks.😉
 
 # Thanks for reading!
 
-<p align="center"><img align="center" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3708.JPG alt="See you" height="640" width="640"/></p>
+<p align="center"><img align="center" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3708.JPG" alt="See you" height="640" width="640"/></p>
 
