@@ -19,4 +19,4 @@
 - ⚔ Sport
 
 ### - Fun fact :
-I can easily become a friend for any cat 🐈‍⬛
+I can easily become a friend for any cat!😁
