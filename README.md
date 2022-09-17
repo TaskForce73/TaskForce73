@@ -32,10 +32,10 @@ I can easily become a friend for any cat!😁
 
 # Languages & Tools 👨‍💻 🛠:
 </br>
-
+  <p align="center"><img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/opening.JPG" alt="Teresa animation" height="320" width="320"/></p>
+  </br>
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <p align="center"><img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/opening.JPG" alt="Teresa animation" height="320" width="320"/></p>
 <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/visualstudio_code%403x.png" alt="vs code" width="250" height="50">
 <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/js%403x.png" alt="js" width="200" height="50">
 <img src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/html%403x.png" alt="html" width="200" height="50">
