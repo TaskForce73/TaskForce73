@@ -56,9 +56,10 @@ I can easily become a friend for any cat!😁
  </br>
 
 
-<img hight="200" width="330" align="right" alt="contact" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3718.JPG"> 
+<img hight="400" width="530" align="right" alt="contact" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3718.JPG"> 
 
-If you want to reach out to me about anything, here are my social networks.😉
+If you want to reach out to me about anything:
+here are my social networks.😉
 
 <a href="mailto:antfilatov91.@gmail.com">
  <img align="left" alt="Gmail" width="150" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/gmail%403x.png" />
@@ -76,4 +77,15 @@ If you want to reach out to me about anything, here are my social networks.😉
   <img align="left" alt="Telegram" width="150" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/telegram%403x.png" />
 </a>
  </p>
+ 
+</br>
+</br>
+</br>
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=TaskForce73show_icons=true&theme=radical"/>
+  </a>
+  </p>
   
