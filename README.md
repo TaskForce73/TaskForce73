@@ -42,7 +42,6 @@ I can easily become a friend for any cat!😁
 </p>
 
 </br>
-</br>
 
 # Contact Me :
 
