@@ -80,10 +80,10 @@ here are my social networks😉
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=TaskForce73&show_icons=true&theme=dracula"/ height="400" width="420">
+<img  src="https://github-readme-stats.vercel.app/api?username=TaskForce73&show_icons=true&theme=dracula"/ height="" width="420">
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaskForce73&layout=compact"/ height="400" width="420">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaskForce73&layout=compact"/ height="" width="420">
   </a>
   </p>
 
