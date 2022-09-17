@@ -55,8 +55,8 @@ I can easily become a friend for any cat!😁
 <p>
  </br>
 
-
-<img hight="220" width="350" align="right" alt="contact" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3718.JPG">
+<!-- 
+<img hight="220" width="350" align="right" alt="contact" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3718.JPG"> -->
 
 If you want to reach out to me about anything, here are my social networks.😉
 
@@ -66,9 +66,8 @@ If you want to reach out to me about anything, here are my social networks.😉
 <a href="https://linkedin.com/in/antfilatov">
   <img align="left" alt="Linkedin" width="200" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/linkedin%403x.png" />
 </a>
-</br>
-</br>
-</br>
+<!-- </br>
+</br> -->
 <a href="https://www.reddit.com/user/X_Ashutosh_X">
   <img align="left" alt="Telegram" width="200" height="50" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/telegram%403x.png" />
 </a>
